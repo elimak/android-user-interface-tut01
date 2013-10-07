@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_thumbnail_placeholder"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\drawable-xhdpi\ic_thumbnail_placeholder.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main_dummy"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\layout\fragment_main_dummy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="property_listitem"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\layout\property_listitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="default_spacing" >25dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="title_section1" >Section 1
+                </string>
+                <string name="title_section3" >Section 3
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_section2" >Section 2
+                </string>
+                <string name="bath" >bath
+                </string>
+                <string name="app_name" >Chap.6.Tut01
+                </string>
+                <string name="sq_ft" >square foot
+                </string>
+                <string name="bed" >bed
+                </string>
+            </file>
+            <file
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\elimak\Documents\Elimak\Experiments\Android\AndroidUserInterface\Chap.6.Tut01Project\Chap.6.Tut01\src\debug\res" />
+    </dataSet>
+
+</merger>
